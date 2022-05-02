@@ -1,0 +1,33 @@
+/* * {
+    box-sizing: border-box;
+} */
+
+body{
+    background-color: grey;
+}
+
+.container{
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    width: 600px;
+    padding: 40px 10px;
+    margin: 15% 25%;
+    justify-content: center;
+   
+}
+
+#button{
+    background-color: rgb(36, 35, 35);
+    border-radius: 5px;
+    padding: 8px 15px;
+    font-weight: bold;
+    color: white;
+    
+}
+#joke{
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    font-size: larger;
+}
